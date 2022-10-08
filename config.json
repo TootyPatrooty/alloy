@@ -2,6 +2,6 @@
     "port": "8080",
     "ssl": false,
     "prefix": "/web/",
-    "localAddresses": [ "24.50.191.255" ],
+    "localAddresses": [ "0.0.0.0" ],
     "blockedHostnames": []
 }
